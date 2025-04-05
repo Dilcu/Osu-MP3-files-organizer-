@@ -8,6 +8,7 @@
 3. _Run the script_
     - either using bash
     - or on the actual VS code IDE:
-     ![image](https://github.com/user-attachments/assets/23567131-7973-4129-baa8-51ed9688bbde)
+
+![image](https://github.com/user-attachments/assets/23567131-7973-4129-baa8-51ed9688bbde)
 
 4. Done! All valid .mp3 files will be copied to your destination folder.
