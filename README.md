@@ -1,5 +1,5 @@
 <h1>ABOUT THE PROJECT</h1>
-<p>This <b>Python</b> program that I've created was to initially scrape the .mp3 files from the songs folder of the rhythm game that I'm always playing, which is Osu!</p>
+<p>This simple <b>Python</b> program that I've created was to initially scrape the .mp3 files from the songs folder of the rhythm game that I'm always playing, which is Osu!</p>
 
 ![image](https://github.com/user-attachments/assets/f64e5745-1004-4ee8-9292-7ec60b5a0084)
 
