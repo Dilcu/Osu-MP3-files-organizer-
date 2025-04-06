@@ -4,8 +4,8 @@ import shutil
 import mutagen 
 from mutagen.mp3 import MP3 
 
-song_dir = 'C:\\Users\\Euclid\\Desktop\\songs - onthespot\\temp' # your directory path
-destination = 'C:\\Users\\Euclid\\Desktop\\songs - onthespot\\Arcane - OST' # desired directory to move files (CHANGE WHEN NEEDED)
+song_dir = 'C:\\' # your directory path
+destination = 'C:\\' # desired directory to move files (CHANGE WHEN NEEDED)
 
 
 #AUDIO LENGTH CALCULATOR
